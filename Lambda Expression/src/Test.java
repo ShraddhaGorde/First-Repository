@@ -13,6 +13,7 @@ public class Test {
 		list.add("a");
 		list.add("a");
 		list.add("a");
+		list.add("b");
 		list.forEach((n)->System.out.println(n));
 		
 	}
