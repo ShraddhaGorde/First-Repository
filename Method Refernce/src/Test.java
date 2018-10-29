@@ -9,7 +9,7 @@ public class Test {
 		*/
 		MethodRef m= new MethodRef();
 		sayable s=i->m.saySomething(i);
-		s.say("Hello");
+		s.say("Hello Ritika");
 	/*	sayable s=m::saySomething;
 		s.say("Hello");*/
 		
