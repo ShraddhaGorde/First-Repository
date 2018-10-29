@@ -14,7 +14,7 @@ public class Test {
 		list.add("a");
 		list.add("a");
 		list.add("b");
-	        list.add("e");
+	    list.add("e");
 		list.forEach((n)->System.out.println(n));
 		
 	}
