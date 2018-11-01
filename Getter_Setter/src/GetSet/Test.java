@@ -12,7 +12,7 @@ public class Test
 	  D1.getColor();
 	  D1.setAge(10);
 	  D1.setBreed("Pug");
-	  D1.setColor("black");
+	  D1.setColor("white");
 	  D1.Display();	
 
 	}
